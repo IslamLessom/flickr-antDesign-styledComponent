@@ -1,0 +1,91 @@
+[
+    {
+      "id": 1,
+      "name": "Ноутбук MSI Modern 15",
+      "description": "Ноутбук MSI Modern 15 A11MU-832RU 1920x1080, Intel Core i5-1155G7 2.5 ГГц, RAM 8 ГБ",
+      "about": {
+        "condition": {
+          "fulCondition": "новый",
+          "smallCondition": "N"
+        },
+        "specification": {
+          "smallNameOne": "K",
+          "fullNameOne": "красота",
+          "fullNameTwo": "стиль",
+          "smallNameTwo": "S"
+        }
+      },
+      "price": 55000,
+      "images": "https://avatars.mds.yandex.net/get-mpic/7400882/img_id8013255978830079790.png/600x800",
+      "count": 1,
+      "priceTotal": 55000,
+      "categories": "notebook"
+    },
+    {
+      "id": 2,
+      "name": "Ноутбук Asus Laptop 15 ",
+      "description": "Ноутбук Asus Laptop 15 X515EP-BQ232T Intel Core i7 1165G7 2800MHz 15.6 1920x1080/RAM 12GB/512GB SSD/32GB ",
+      "about": {
+        "condition": {
+          "fulCondition": "Б/У",
+          "smallCondition": "B"
+        },
+        "specification": {
+          "smallNameOne": "K",
+          "fullNameOne": "красота",
+          "fullNameTwo": "стиль",
+          "smallNameTwo": "S"
+        }
+      },
+      "price": 40000,
+      "images": "https://torg-pc.ru/upload/iblock/21a/a6cjvrtv177twyq668noq6ungvzpwf8d/X515EP-BQ232T111.png",
+      "count": 1,
+      "priceTotal": 55000,
+      "categories": "notebook"
+    },
+    {
+      "id": 3,
+      "name": "Mackbook PRO",
+      "description": "The Apple MacBook Pro packs 512GB of SSD storage. Connectivity options include Wi-Fi 802.11 ac, Bluetooth and it comes with 2 USB ports",
+      "about": {
+        "condition": {
+          "fulCondition": "Б/У",
+          "smallCondition": "B"
+        },
+        "specification": {
+          "smallNameOne": "K",
+          "fullNameOne": "красота",
+          "fullNameTwo": "стиль",
+          "smallNameTwo": "S"
+        }
+      },
+      "price": 55000,
+      "images": "https://ap71.ru/wp-content/uploads/2019/02/mbp-spacegray-2022.png",
+      "count": 1,
+      "priceTotal": 55000,
+      "categories": "notebook"
+    },
+    {
+      "id": 4,
+      "name": "Mackbook PRO 16",
+      "description": "Mackbook PRO 16 - 8-Core CP 10-Core GPU8GB Unified Memory 256GB SSD Storage¹",
+      "about": {
+        "condition": {
+          "fulCondition": "новый",
+          "smallCondition": "N"
+        },
+        "specification": {
+          "smallNameOne": "K",
+          "fullNameOne": "красота",
+          "fullNameTwo": "стиль",
+          "smallNameTwo": "S"
+        }
+      },
+      "price": 35000,
+      "images": "https://sterlitamak.istudio-shop.ru/a/istudio/files/multifile/2353/mbp14_spacegray_gallery2_202110.png",
+      "count": 1,
+      "priceTotal": 35000,
+      "categories": "notebook"
+    }
+  ]
+  

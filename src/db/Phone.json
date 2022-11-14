@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung S22 Ultra",
+    "description": "Samsung S22 Ultra - Сильнейший телефон , с сильными сторонами , и безграничными возможностями",
+    "about": {
+      "condition": {
+        "fulCondition": "новый",
+        "smallCondition": "N"
+      },
+      "specification": {
+        "smallNameOne": "K",
+        "fullNameOne": "красота",
+        "fullNameTwo": "стиль",
+        "smallNameTwo": "S"
+      }
+    },
+    "price": 55000,
+    "images": "https://i-ola.istudio-shop.ru/a/istudio/files/multifile/2353/ru_galaxy_s22_ultra_s908_sm_s908bzkgser_530892949_1.png",
+    "count": 1,
+    "priceTotal": 55000,
+    "categories": "phone"
+  },
+  {
+    "id": 2,
+    "name": "Samsung S22 Ultra",
+    "description": "Samsung S22 Ultra - Сильнейший телефон , с сильными сторонами , и безграничными возможностями",
+    "about": {
+      "condition": {
+        "fulCondition": "Б/У",
+        "smallCondition": "B"
+      },
+      "specification": {
+        "smallNameOne": "K",
+        "fullNameOne": "красота",
+        "fullNameTwo": "стиль",
+        "smallNameTwo": "S"
+      }
+    },
+    "price": 40000,
+    "images": "https://istudio-shop.ru/a/istudio/files/multifile/2353/ru_galaxy_s22_ultra_s908_sm_s908bzwgser_530893060.png",
+    "count": 1,
+    "priceTotal": 55000,
+    "categories": "phone"
+  },
+  {
+    "id": 3,
+    "name": "Samsung S21 Ultra",
+    "description": "Samsung S21 Ultra - Сильнейший телефон , с сильными сторонами , и безграничными возможностями",
+    "about": {
+      "condition": {
+        "fulCondition": "Б/У",
+        "smallCondition": "B"
+      },
+      "specification": {
+        "smallNameOne": "K",
+        "fullNameOne": "красота",
+        "fullNameTwo": "стиль",
+        "smallNameTwo": "S"
+      }
+    },
+    "price": 55000,
+    "images": "https://images.samsung.com/is/image/samsung/p6pim/ae/galaxy-s21/gallery/ae-galaxy-s21-ultra-5g-g988-371070-sm-g998bzthmea-368336224?$650_519_PNG$",
+    "count": 1,
+    "priceTotal": 55000,
+    "categories": "phone"
+  },
+  {
+    "id": 4,
+    "name": "Samsung S20",
+    "description": "Samsung S20 - Сильнейший телефон , с сильными сторонами , и безграничными возможностями",
+    "about": {
+      "condition": {
+        "fulCondition": "новый",
+        "smallCondition": "N"
+      },
+      "specification": {
+        "smallNameOne": "K",
+        "fullNameOne": "красота",
+        "fullNameTwo": "стиль",
+        "smallNameTwo": "S"
+      }
+    },
+    "price": 35000,
+    "images": "https://images.samsung.com/is/image/samsung/uk-galaxy-s20-fe-sm-g781-5g-sm-g781bzgdeua-backcloudmint-307445534?$720_576_PNG$",
+    "count": 1,
+    "priceTotal": 35000,
+    "categories": "phone"
+  },
+  {
+    "id": 5,
+    "name": "Samsung S20 Ultra",
+    "description": "Samsung S22 - Сильнейший телефон , с сильными сторонами , и безграничными возможностями",
+    "about": {
+      "condition": {
+        "fulCondition": "Б/У",
+        "smallCondition": "B"
+      },
+      "specification": {
+        "smallNameOne": "K",
+        "fullNameOne": "красота",
+        "fullNameTwo": "стиль",
+        "smallNameTwo": "S"
+      }
+    },
+    "price": 40000,
+    "images": "https://images.samsung.com/is/image/samsung/au-galaxy-s20-ultra-g988-sm-g988bzaaxsa-backcosmicgray-223755650?$720_576_PNG$",
+    "count": 1,
+    "priceTotal": 40000,
+    "categories": "phone"
+  }
+]
